@@ -1,6 +1,6 @@
 # beginner-html-site-de
 
-Eine einfache OnePage-Webseite erstellt um Beginnern beim lernen von HTML-Basics zu helfen. Dieses Beispiel wird in dem Kurs [https://developer.mozilla.org/de/Learn/Getting_started_with_the_web/HTML_basics](https://developer.mozilla.org/de/Learn/Getting_started_with_the_web/HTML_basics) erstellt und benutzt.
+Eine einfache OnePage-Webseite erstellt, um Beginnern beim lernen von HTML-Basics zu helfen. Dieses Beispiel wird in dem Kurs [https://developer.mozilla.org/de/Learn/Getting_started_with_the_web/HTML_basics](https://developer.mozilla.org/de/Learn/Getting_started_with_the_web/HTML_basics) erstellt und benutzt.
 
 <a href="https://shidigital.github.io/beginner-html-site-de/">Seite anschauen</a>
 
