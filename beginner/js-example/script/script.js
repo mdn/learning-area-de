@@ -1,4 +1,3 @@
-/*
 // Image switcher code
 
 var myImage = document.querySelector('img');
@@ -32,7 +31,4 @@ if(!localStorage.getItem('name')) {
 
 myButton.onclick = function() {
   setUserName();
-} */
-
-var myHeading = document.querySelector('h1');
-myHeading.textContent = 'Hallo Welt!';
+}
